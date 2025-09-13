@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 20px;
+    line-height: 40px;
+    font-size: 50px;
+    text-transform: capitalize;
+    background-color: goldenrod;
+    text-align: center;
+    font-weight: 900;
+}
